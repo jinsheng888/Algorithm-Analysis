@@ -1,4 +1,2 @@
-今天好开心呀！
-大家一起来学Git叭~
-马上五一假期了哎，去哪里玩呢？
-想吃海底捞呜呜
+Do you want to learn something about git?
+I hope rhis page will be of great help for you.
